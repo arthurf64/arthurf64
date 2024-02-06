@@ -23,7 +23,3 @@
   <img height="30" src="https://github.com/devicons/devicon/raw/develop/icons/c/c-original.svg?raw=true">
   <img height="30" src="https://github.com/devicons/devicon/raw/develop/icons/cplusplus/cplusplus-original.svg?raw=true">
 </div>
-
-## 🏆 Status
-![Status Do Perfil](https://github-readme-stats.vercel.app/api?username=thurnd&show_icons=true&theme=onedark)
-![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thurnd&theme=onedark)
