@@ -14,12 +14,12 @@
   <img height="30" src="https://github.com/devicons/devicon/raw/develop/icons/react/react-original.svg?raw=true">
   <img height="30" src="https://github.com/devicons/devicon/raw/develop/icons/svelte/svelte-original.svg?raw=true">
   <img height="30" src="https://github.com/devicons/devicon/raw/develop/icons/nodejs/nodejs-original.svg?raw=true">
-  <img height="35" src="https://github.com/devicons/devicon/raw/develop/icons/rust/rust-original.svg?raw=true">
 </div>
 
 ## 📚 Linguagens e Ferramentas em Aprendizagem
 <div align="center">
   <img height="35" src="https://github.com/devicons/devicon/raw/develop/icons/nextjs/nextjs-original.svg?raw=true">
+  <img height="35" src="https://github.com/devicons/devicon/raw/develop/icons/rust/rust-original.svg?raw=true">
   <img height="30" src="https://github.com/devicons/devicon/raw/develop/icons/c/c-original.svg?raw=true">
   <img height="30" src="https://github.com/devicons/devicon/raw/develop/icons/cplusplus/cplusplus-original.svg?raw=true">
 </div>
